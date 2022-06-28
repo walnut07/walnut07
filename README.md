@@ -1,6 +1,6 @@
 ### Hi there 👋
 💖 I'm Kurumi. <br>
-💻 I'm a Pythonista, but able to use JavaScript, HTML, and CSS as well.<br>
+💻 I use Python, Javascript, HTML, and CSS.<br>
 
 ### Currently doing
 While my major is Economics, I've actively participated in extracurricular programs to study Computer Science..<br>
