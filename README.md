@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/kurumimuto" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://walnut07.com" target="_blank" rel="noreferrer">
+  <a href="https://mtkrm.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Blog-ff69b4?style=flat-square&logoColor=white" alt="Blog Badge">
   </a>
 </p>
